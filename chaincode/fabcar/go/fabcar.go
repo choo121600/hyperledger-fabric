@@ -1,5 +1,8 @@
 /*
 SPDX-License-Identifier: Apache-2.0
+go mod init chaincode
+go mod vendor
+go build
 */
 
 package main
